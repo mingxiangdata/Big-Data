@@ -58,7 +58,7 @@ Typically used with structured data.
 Analysis of Big Data
 • Different types of data lend themselves to different analysis techniques:
 – Inductive analysis
-Screen Shot 2021-09-03 at 09.18.17![Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016560-f12246ba-9d2a-41df-98a5-272c95a672d6.png)
+(https://user-images.githubusercontent.com/72891382/132016560-f12246ba-9d2a-41df-98a5-272c95a672d6.png)
 
 Begin with concrete examples of data: apply qualitative methods to understand the domain and to determine what the important factors are.
 Great when you don’t know what insights to expect from the data.
@@ -71,7 +71,7 @@ data mining was originally used to describe the process through which previously
 data analytics is now an overarching term for all data analysis, as the science of knowledge discovery
 
 Having knowledge implies that it can be exercised to solve a problem, whereas having information does not carry the same meaning.
-Screen Shot 2021-09-03 at 09.18.17![Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016513-e5bb8e62-ddca-4554-acbe-2b4268019971.png)
+(https://user-images.githubusercontent.com/72891382/132016513-e5bb8e62-ddca-4554-acbe-2b4268019971.png)
 
 Example
 Leveraging Big Data and Analytics for Political Campaigns
@@ -90,7 +90,7 @@ inside the database so you don’t have to move or convert data repeatedly.
 Grid computing
 Appliances
 – Hardware and software together in a single unit – Fast, but can also be scaled as needed
-Screen Shot 2021-09-03 at 09.18.17![Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016488-f99d2534-272c-4175-9d41-a248feb83de2.png)
+(https://user-images.githubusercontent.com/72891382/132016488-f99d2534-272c-4175-9d41-a248feb83de2.png)
 
 Technologies
 Processing and analyzing Big Data
