@@ -106,6 +106,6 @@ Processing and analyzing Big Data
 Screen Shot 2021-09-03 at 09.19.00![Screen Shot 2021-09-03 at 09 19 00](https://user-images.githubusercontent.com/72891382/132017216-92c23155-bb7a-4e53-98f6-0622ca32897e.png)
 
 
-strategies
+Strategies
 • Expected key technologies:
 – MapReduce – Hadoop – NoSQL
