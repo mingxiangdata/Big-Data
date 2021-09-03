@@ -58,7 +58,8 @@ Typically used with structured data.
 Analysis of Big Data
 • Different types of data lend themselves to different analysis techniques:
 – Inductive analysis
-Screen Shot 2021-09-03 at 09.13.42!(https://user-images.githubusercontent.com/72891382/132017053-ed303c38-2e45-4071-bf39-29dbcd3edada.png)
+
+Screen Shot 2021-09-03 at 09.11.42![Screen Shot 2021-09-03 at 09 11 42](https://user-images.githubusercontent.com/72891382/132017266-9c68a72f-4da9-417e-ba17-a66ebabc1d02.png)
 
 
 Begin with concrete examples of data: apply qualitative methods to understand the domain and to determine what the important factors are.
@@ -72,7 +73,8 @@ data mining was originally used to describe the process through which previously
 data analytics is now an overarching term for all data analysis, as the science of knowledge discovery
 
 Having knowledge implies that it can be exercised to solve a problem, whereas having information does not carry the same meaning.
-(https://user-images.githubusercontent.com/72891382/132016513-e5bb8e62-ddca-4554-acbe-2b4268019971.png)
+Screen Shot 2021-09-03 at 09.13.42![Screen Shot 2021-09-03 at 09 13 42](https://user-images.githubusercontent.com/72891382/132017255-109a0595-4bad-4b20-a19d-67815c6c8bed.png)
+
 
 Example
 Leveraging Big Data and Analytics for Political Campaigns
@@ -91,7 +93,8 @@ inside the database so you don’t have to move or convert data repeatedly.
 Grid computing
 Appliances
 – Hardware and software together in a single unit – Fast, but can also be scaled as needed
-(https://user-images.githubusercontent.com/72891382/132016488-f99d2534-272c-4175-9d41-a248feb83de2.png)
+Screen Shot 2021-09-03 at 09.18.17![Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132017247-8f750d4a-abdb-4c40-871a-4de5a63e09c3.png)
+
 
 Technologies
 Processing and analyzing Big Data
@@ -100,7 +103,8 @@ Processing and analyzing Big Data
 – Often employ non‐relational data storage
 • Process unstructured and semi‐structured data
 – Apply advanced analytics and data visualization
-[Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016412-99bade5e-51d4-4278-9286-f2d252c219f1.png)
+Screen Shot 2021-09-03 at 09.19.00![Screen Shot 2021-09-03 at 09 19 00](https://user-images.githubusercontent.com/72891382/132017216-92c23155-bb7a-4e53-98f6-0622ca32897e.png)
+
 
 strategies
 • Expected key technologies:
