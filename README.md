@@ -58,7 +58,7 @@ Typically used with structured data.
 Analysis of Big Data
 • Different types of data lend themselves to different analysis techniques:
 – Inductive analysis
-(https://user-images.githubusercontent.com/72891382/132016560-f12246ba-9d2a-41df-98a5-272c95a672d6.png)
+[Screen Shot 2021-09-03 at 09 11 42](https://user-images.githubusercontent.com/72891382/132016963-5dec361f-f610-4130-a284-ab9968d0751a.png)
 
 Begin with concrete examples of data: apply qualitative methods to understand the domain and to determine what the important factors are.
 Great when you don’t know what insights to expect from the data.
@@ -99,7 +99,7 @@ Processing and analyzing Big Data
 – Often employ non‐relational data storage
 • Process unstructured and semi‐structured data
 – Apply advanced analytics and data visualization
-Screen Shot 2021-09-03 at 09.18.17![Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016412-99bade5e-51d4-4278-9286-f2d252c219f1.png)
+[Screen Shot 2021-09-03 at 09 18 17](https://user-images.githubusercontent.com/72891382/132016412-99bade5e-51d4-4278-9286-f2d252c219f1.png)
 
 strategies
 • Expected key technologies:
