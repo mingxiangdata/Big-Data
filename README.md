@@ -58,7 +58,8 @@ Typically used with structured data.
 Analysis of Big Data
 • Different types of data lend themselves to different analysis techniques:
 – Inductive analysis
-[Screen Shot 2021-09-03 at 09 11 42](https://user-images.githubusercontent.com/72891382/132016963-5dec361f-f610-4130-a284-ab9968d0751a.png)
+Screen Shot 2021-09-03 at 09.13.42!(https://user-images.githubusercontent.com/72891382/132017053-ed303c38-2e45-4071-bf39-29dbcd3edada.png)
+
 
 Begin with concrete examples of data: apply qualitative methods to understand the domain and to determine what the important factors are.
 Great when you don’t know what insights to expect from the data.
