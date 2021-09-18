@@ -110,11 +110,3 @@ Strategies
 • Expected key technologies:
 – MapReduce – Hadoop – NoSQL
 
-
-Tensorflow 
-TensorFlow is an open source library for numerical computation, specializing in machine learning applications. 
-The model for this lab is trained on the ImageNet, Large Visual Recognition Challenge dataset. These models can differentiate between 1,000 different classes, like "Zebra", "Dalmatian", and "Dishwasher". In a production environment, you'll have a choice of model architectures, so you can determine the right tradeoff between speed, size, and accuracy for your problem.
-
-TensorBoard is a monitoring and inspection tool included with TensorFlow. You will use it to monitor the training progress. In order for your VM to get to TensorBoard, you'll create a firewall rule.
-
-
